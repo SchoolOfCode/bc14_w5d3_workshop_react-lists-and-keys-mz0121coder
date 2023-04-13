@@ -3,10 +3,6 @@ import React from 'react';
 import './index.css';
 
 function Post(props) {
-<<<<<<< HEAD
-=======
-	//Replace the word "test" with your post content!
->>>>>>> 3af95abe9ff10fc1ad8909d70ae760dccaa312ca
 	return (
 		<article>
 			<h1>{props.title}</h1>
