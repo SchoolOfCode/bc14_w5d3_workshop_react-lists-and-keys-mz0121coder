@@ -17,7 +17,7 @@ function Post(props) {
 			<img
 				src={props.image.link}
 				alt={props.image.alt}
-				style={{ width: 200, height: 200 }}
+				style={{ width: 275, height: 275 }}
 			/>
 		</article>
 	);
